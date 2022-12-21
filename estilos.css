@@ -1,0 +1,18 @@
+body{
+    color: #000000;
+    background-color: aquamarine;
+ }
+ table {
+	width: 100%;
+	border: 5px solid gray;
+}
+
+th,td{
+    border: solid 1px black;
+}
+.image1{
+    width: 95%;
+    height: 200px;
+    right: 200px;
+    margin: 1%;
+}  

@@ -1,0 +1,4 @@
+table tr:nth-child(0,1) {
+	color: #fff;
+	background-color: rgb(136, 12, 12);
+}
